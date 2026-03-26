@@ -1,1 +1,2 @@
-scripts/restart_nginx.sh
+#!/bin/bash
+systemctl restart nginx
